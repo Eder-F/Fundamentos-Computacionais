@@ -1,0 +1,3 @@
+Setor: alimento | Produto: d | Quantidade: 2 | Validade: 01/02/1990
+Setor: alimento | Produto: e | Quantidade: 2 | Validade: 01/02/1990
+Setor: alimento | Produto: f | Quantidade: 2 | Validade: 01/02/1990

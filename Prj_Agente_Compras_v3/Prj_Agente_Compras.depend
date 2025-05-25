@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1748001708 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras\backend.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1747933778 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1748000667 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras\banco_de_dados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<stdbool.h>
+
+1748196042 source:c:\users\família fayer\desktop\prj_agente_compras\backend.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1748196226 source:c:\users\família fayer\desktop\prj_agente_compras\banco_de_dados.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<stdbool.h>
+
+1748192987 source:c:\users\família fayer\desktop\prj_agente_compras\main.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1748196165 c:\users\família fayer\desktop\prj_agente_compras\sistema.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<unistd.h>
+
+1748213905 source:c:\users\família fayer\desktop\prj_agente_compras_v3\backend.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1748209563 c:\users\família fayer\desktop\prj_agente_compras_v3\sistema.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<unistd.h>
+
+1748214536 source:c:\users\família fayer\desktop\prj_agente_compras_v3\banco_de_dados.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<stdbool.h>
+
+1748214536 source:c:\users\família fayer\desktop\prj_agente_compras_v3\main.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1748213759 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras_v3\banco_de_dados.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<stdbool.h>
+
+1748209563 d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras_v3\sistema.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<unistd.h>
+
+1748202953 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras_v3\main.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<windows.h>
+	<unistd.h>
+
+1748213905 source:d:\meus arquivos\faculdade\pcg\multidisciplinar\prj_agente_compras_v3\backend.c
+	"sistema.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
