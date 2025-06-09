@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1747673148 source:c:\users\ceitelabinfo\downloads\gamerpg\gamerpg\main.c
+	"jogo.h"
+
+1747674191 c:\users\ceitelabinfo\downloads\gamerpg\gamerpg\jogo.h
+
+1747714181 source:c:\users\família fayer\desktop\gamerpg\main.c
+	"jogo.h"
+
+1747674191 c:\users\família fayer\desktop\gamerpg\jogo.h
+
+1747714789 source:c:\users\família fayer\desktop\gamerpg\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"jogo.h"
+
+1749389030 source:c:\users\família fayer\desktop\geral_rgp\gamerpg\main.c
+	"jogo.h"
+
+1749427625 c:\users\família fayer\desktop\geral_rgp\gamerpg\jogo.h
+
+1749437118 source:c:\users\família fayer\desktop\geral_rgp\gamerpg\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	"jogo.h"
+
